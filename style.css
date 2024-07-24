@@ -1,0 +1,18 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.weather-icon {
+    width: 70px;
+    height: 70px;
+}
+
+.custom-font {
+    font-family: 'Courier New', Courier, monospace; /* Burada istediğiniz fontu kullanabilirsiniz */
+    font-size: 24px; /* Yazı boyutunu ayarlayın */
+    font-weight: bold; /* Yazı kalınlığını ayarlayın */
+    color: #333; /* Yazı rengini ayarlayın */
+    border-bottom: 1px solid #333;
+    margin-bottom: 10px;
+}
